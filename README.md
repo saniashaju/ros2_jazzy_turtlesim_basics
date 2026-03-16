@@ -29,7 +29,7 @@ ros2 run turtlesim turtlesim_node
 source /opt/ros/jazzy/setup.bash
 ros2 run turtlesim turtle_teleop_key
 
-(##), 📈 Progression
+## 📈 Progression
 This project served as the foundational step before moving into real-world hardware integration with the Unitree Go2 robot.
 
 
